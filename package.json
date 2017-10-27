@@ -1,0 +1,31 @@
+{
+  "name": "7-4hamming-code",
+  "version": "1.0.0",
+  "description": "7-4 Hamming encode/decode system",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "chai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason19956779/7-4hamming-code.git"
+  },
+  "keywords": [
+    "7-4",
+    "hamming",
+    "code"
+  ],
+  "author": "jason19956779",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason19956779/7-4hamming-code/issues"
+  },
+  "homepage": "https://github.com/jason19956779/7-4hamming-code#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
